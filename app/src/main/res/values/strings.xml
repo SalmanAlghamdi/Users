@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="msg_no_internet" translatable="true">Internet Not Available!</string>
+    <string name="msg_no_date" translatable="true">Data Not Found!</string>
+</resources>
